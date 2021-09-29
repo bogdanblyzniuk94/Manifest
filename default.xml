@@ -5,6 +5,6 @@
 
   <default remote="origin" sync-j="4" revision="master" />
 
-  <project path="css" name="BattleShip" />
+  <project path="BattleShipRepository" name="BattleShip" />
   
 </manifest>
