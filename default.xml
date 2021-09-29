@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="origin" fetch="https://github.com/bogdanblyzniuk94/" />
+  <remote name="origin" fetch="https://github.com/bogdanblyzniuk94/" revision="bohdan.blyzniuk" />
 
-  <default remote="origin" sync-j="4" revision="bohdan.blyzniuk" />
+  <default remote="origin" sync-j="4" revision="master" />
 
   <project name="gl-android-training-2020/Practise04/" />
   
