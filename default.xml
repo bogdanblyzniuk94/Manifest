@@ -5,6 +5,6 @@
 
   <default remote="origin" sync-j="4" revision="master" />
 
-  <project name="BattleShip" />
+  <project name="gl-android-training-2020/Practise04/" />
   
 </manifest>
