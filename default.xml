@@ -3,7 +3,7 @@
 
   <remote name="origin" fetch="https://github.com/bogdanblyzniuk94/" />
 
-  <default remote="origin" sync-j="4" revision="master" />
+  <default remote="origin" sync-j="4" revision="bohdan.blyzniuk" />
 
   <project name="gl-android-training-2020/Practise04/" />
   
