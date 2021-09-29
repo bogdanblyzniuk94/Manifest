@@ -5,6 +5,6 @@
 
   <default remote="origin" sync-j="4" revision="master" />
 
-  <project path="Practise04" name="gl-android-training-2020/tree/bohdan.blyzniuk/Practise04" />
+  <project path="css" name="BattleShip" />
   
 </manifest>
